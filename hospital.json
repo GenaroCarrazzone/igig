@@ -1,0 +1,16 @@
+{
+    "_id":{"$oid":"637ffe0ca4a056df59c28ca0"},
+    "razao-social":"Real Hospital Portugues",
+    "fantasia":"Hospital Português",
+    "CNPJ":"41036872001-98",
+    "endereco":"Av Agamenon Magalhaes",
+    "numero":"12300",
+    "complemento":"", 
+    "bairro": "Paissandu",
+    "cidade": "Recife",
+    "CEP": "52010-000",
+    "email": "rhp@rhp.org.br",
+    "telefone-fixo":"2233-3322",
+    "celular":"999777444"
+  
+  }

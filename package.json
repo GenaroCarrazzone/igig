@@ -1,0 +1,17 @@
+{
+  "name": "igig",
+  "version": "1.0.0",
+  "description": "primeira versão do JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Genaro, Laurecio, Joao Eurico",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.12.1",
+    "mongodb-client": "^0.0.1"
+  }
+}
