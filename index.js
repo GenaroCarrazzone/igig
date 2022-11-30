@@ -12,7 +12,6 @@ async function main() {
   const password = process.env.MONGO_INITDB_ROOT_PASSWORD;
   const mongoHost = process.env.MONGO_HOST
   const connectString = `mongodb+srv://${username}:${password}@${mongoHost}/`
-  console.log( connectString )
   const client = new MongoClient(connectString, { useNewUrlParser: true, useUnifiedTopology: true });
 
   try {
